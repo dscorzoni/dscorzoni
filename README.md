@@ -4,7 +4,7 @@
 
 Welcome to my github! My name is Danilo Scorzoni Ré, I'm a Data Scientist at Instagram/Facebook Inc. I work in the Partnerships Science team, 
 supporting our Commerce and Media Partnerships teams to make sure that commerce products are delivering value to IG Partners. I mostly use **SQL**, **R**, 
-**Python/pandas** and **statistical methods** to extract insights to inform product teams strategy or backup marketing materials to Partners.
+**Python/pandas** and **statistical methods** to extract insights to inform product teams strategy and backup marketing materials to Partners.
 
 <details><summary>The main statistical methods that I use in my daily work are (click to open):</summary>
 
