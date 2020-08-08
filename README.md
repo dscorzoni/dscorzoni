@@ -1,6 +1,6 @@
 ### Hi there!
 
-<img src = "https://img.shields.io/badge/R-code-blue" /> <img src = "https://img.shields.io/badge/R-studio-blue" /> <img src = "https://img.shields.io/badge/R-dplyr-blue" /> <img src = "https://img.shields.io/badge/R-ggplot2-blue" /> <br /> <img src = "https://img.shields.io/badge/Python-airflow-green" /> <img src = "https://img.shields.io/badge/Python-pandas-green" /> <img src = "https://img.shields.io/badge/Python-matplotlib-green" /> <br /> <img src = "https://img.shields.io/badge/Statistics-descriptive-orange" /> <img src = "https://img.shields.io/badge/Statistics-linear models-orange" /> <img src = "https://img.shields.io/badge/Statistics-survival analysis-orange" /> <img src = "https://img.shields.io/badge/Statistics-multivariate methods-orange" />
+<img src = "https://img.shields.io/badge/R-code-blue" /> <img src = "https://img.shields.io/badge/R-studio-blue" /> <img src = "https://img.shields.io/badge/R-dplyr-blue" /> <img src = "https://img.shields.io/badge/R-ggplot2-blue" /> <br /> <img src = "https://img.shields.io/badge/Python-airflow-green" /> <img src = "https://img.shields.io/badge/Python-pandas-green" /> <img src = "https://img.shields.io/badge/Python-matplotlib-green" /> <br /> <img src = "https://img.shields.io/badge/Statistics-descriptive-orange" /> <img src = "https://img.shields.io/badge/Statistics-regression-orange" /> <img src = "https://img.shields.io/badge/Statistics-survival-orange" /> <img src = "https://img.shields.io/badge/Statistics-multivariate-orange" /> 
 
 Welcome to my github! My name is Danilo Scorzoni Ré, I'm a Data Scientist at Instagram/Facebook Inc. I work in the Partnerships Science team, 
 supporting our Commerce and Media Partnerships teams to make sure that commerce products are delivering value to IG Partners. I mostly use **SQL**, **R**, 
@@ -32,7 +32,7 @@ supporting our Commerce and Media Partnerships teams to make sure that commerce 
 </details>
 
 I also have some background on Data Engineering, using task scheduler frameworks as **Airflow**, and building star-schema tables based on logging tables.
-Another think that I love to do is build dashboards. I have experience with FB's proprietary tools but also like to work with **Tableau**.
+Another think that I love to do is building dashboards. I have experience with FB's proprietary tools but also like to work with **Tableau**.
 
 To connect with me:
 
