@@ -1,6 +1,10 @@
 ### Hi there!
 
-<img src = "https://img.shields.io/badge/R-Code and Studio-blue" /> <img src = "https://img.shields.io/badge/Python-Airflow-green" /> <img src = "https://img.shields.io/badge/Python-Pandas-green" />
+<img src = "https://img.shields.io/badge/R-code-blue" /> <img src = "https://img.shields.io/badge/R-studio-blue" /> <img src = "https://img.shields.io/badge/R-dplyr-blue" /> <img src = "https://img.shields.io/badge/R-ggplot2-blue" /> 
+
+<img src = "https://img.shields.io/badge/Python-airflow-green" /> <img src = "https://img.shields.io/badge/Python-pandas-green" /> <img src = "https://img.shields.io/badge/Python-matplotlib-green" /> 
+
+<img src = "https://img.shields.io/badge/Statistics-descriptive-orange" /> <img src = "https://img.shields.io/badge/Statistics-linear models-orange" /> <img src = "https://img.shields.io/badge/Statistics-survival analysis-orange" /> <img src = "https://img.shields.io/badge/Statistics-multivariate methods-orange" />
 
 Welcome to my github! My name is Danilo Scorzoni Ré, I'm a Data Scientist at Instagram/Facebook Inc. I work in the Partnerships Science team, 
 supporting our Commerce and Media Partnerships teams to make sure that commerce products are delivering value to IG Partners. I mostly use **SQL**, **R**, 
