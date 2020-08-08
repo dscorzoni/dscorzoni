@@ -31,8 +31,7 @@ supporting our Commerce and Media Partnerships teams to make sure that commerce 
 
 </details>
 
-I also have some background on Data Engineering, using task scheduler frameworks as **Airflow**, and building star-schema tables based on logging tables.
-Another think that I love to do is building dashboards. I have experience with FB's proprietary tools but also like to work with **Tableau**.
+I also have some background on Data Engineering, using task scheduler frameworks as **Airflow**, and building star-schema design and dimensional tables based on app logging data. Another think that I love to do is building dashboards. I have experience with FB's proprietary tools but also like to work with **Tableau**.
 
 To connect with me:
 
