@@ -2,9 +2,8 @@
 
 <img src = "https://img.shields.io/badge/R-code-blue" /> <img src = "https://img.shields.io/badge/R-studio-blue" /> <img src = "https://img.shields.io/badge/R-dplyr-blue" /> <img src = "https://img.shields.io/badge/R-ggplot2-blue" /> <img src = "https://img.shields.io/badge/R-caret-blue" /> <br /> <img src = "https://img.shields.io/badge/Python-airflow-green" /> <img src = "https://img.shields.io/badge/Python-pandas-green" /> <img src = "https://img.shields.io/badge/Python-matplotlib-green" /> <img src = "https://img.shields.io/badge/Python-flask-green" />  <img src = "https://img.shields.io/badge/Python-sqlalchemy-green" /> <br /> <img src = "https://img.shields.io/badge/Statistics-descriptive-orange" /> <img src = "https://img.shields.io/badge/Statistics-regression-orange" /> <img src = "https://img.shields.io/badge/Statistics-survival-orange" /> <img src = "https://img.shields.io/badge/Statistics-multivariate-orange" /> <img src = "https://img.shields.io/badge/Statistics-causal_inference-orange" /> <img src = "https://img.shields.io/badge/Statistics-experimentation-orange" /> 
 
-Welcome to my github! My name is Danilo Scorzoni Ré, I'm a Data Scientist at Instagram/Facebook Inc. I work in the Partnerships Science team, 
-supporting our Commerce and Media Partnerships teams to make sure that commerce products are delivering value to IG Partners. I mostly use **SQL**, **R**, 
-**Python/pandas** and **statistical methods** to extract insights to inform product teams strategy and backup marketing materials to Partners.
+Welcome to my github! My name is Danilo Scorzoni Ré, I'm a Data Scientist with more than 10 years of experience. I mostly use **SQL**, **R**, 
+**Python/pandas** and **statistical methods** to extract insights to inform product teams strategy and backup marketing materials.
 
 <details><summary>The main statistical methods that I use in my daily work are (click to open):</summary>
 
@@ -12,7 +11,7 @@ supporting our Commerce and Media Partnerships teams to make sure that commerce 
 
 * Descriptive statistics.
 * Hypothesis testing (t-test, confidence intervals, etc).
-* Causal analysis with regression models.
+* Causal analysis with regression models and propensity score matching.
 * Linear models, generalized linear models (includes logistic regression and others).
 * Survival analysis applied to churn.
 * Multivariate methods such as Principal Component Analysis, k-means, hierarchical clustering, etc.
@@ -31,7 +30,7 @@ supporting our Commerce and Media Partnerships teams to make sure that commerce 
 
 </details>
 
-I also have some background on Data Engineering, using data workflow frameworks as **Airflow**, and building star-schema design and dimensional data modeling based on app events logging data. Another think that I love to do is building dashboards. I have experience with FB's proprietary tools but also like to work with **Tableau**.
+I also have some background on Data Engineering, using data workflow frameworks as **Airflow**, and building star-schema design and dimensional data modeling based on app events logging data. Another thing that I love to do is building dashboards. I have experience with FB's proprietary tools but also like to work with **Tableau**.
 
 I believe that knowledge is the path to freedom, so I decided to create an YouTube channel to teach R for people that speaks Portuguese, since this kind of content is rare in this language. [Check it out](https://www.youtube.com/channel/UCOQvCZKYcL1xFqcQ5z7Wmww/)!
 
