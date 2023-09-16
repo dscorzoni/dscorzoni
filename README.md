@@ -32,9 +32,8 @@ Welcome to my github! My name is Danilo Scorzoni Ré, I'm a Data Scientist with 
 
 I also have some background on Data Engineering, using data workflow frameworks as **Airflow**, and building star-schema design and dimensional data modeling based on app events logging data. Another thing that I love to do is building dashboards. I have experience with FB's proprietary tools but also like to work with **Tableau**.
 
-I believe that knowledge is the path to freedom, so I decided to create an YouTube channel to teach R for people that speaks Portuguese, since this kind of content is rare in this language. [Check it out](https://www.youtube.com/channel/UCOQvCZKYcL1xFqcQ5z7Wmww/)!
+Given the lack of good content about R in Portuguese, I decided to create an YouTube channel to teach R in that language. [Check it out](https://www.youtube.com/channel/UCOQvCZKYcL1xFqcQ5z7Wmww/)!
 
 Finally, to connect with me:
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/dscorzonire) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dscorzoni/)
